@@ -1,2 +1,2 @@
-# hellow-world
-Just another Dre  repository
+# hello-world
+Just another Dre repository
